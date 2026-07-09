@@ -154,13 +154,6 @@ Commands neu registrieren:
 npm run deploy-commands
 ```
 
-## Architektur
-
-- Event-basierte Architektur mit Discord.js
-- Modulare Struktur für einfache Wartung
-- JSON-basierte Datenspeicherung
-- Umfassendes Logging aller Events
-
 ## Troubleshooting
 
 **Bot antwortet nicht**
